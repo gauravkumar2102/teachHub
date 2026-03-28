@@ -247,5 +247,4 @@ frontend/.env
 
 ---
 
-## 📬 Contact
-Built for the Full Stack Developer Intern interview task.
+
